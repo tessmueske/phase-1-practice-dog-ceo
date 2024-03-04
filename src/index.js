@@ -1,5 +1,3 @@
-console.log('%c HI', 'color: firebrick')
-
 //CHALLENGE ONE//
 
 const imgUrl = "https://dog.ceo/api/breeds/image/random/4";
